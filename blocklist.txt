@@ -2,6 +2,8 @@ msh.amazon.co.uk
 device-metrics-us.amazon.com
 device-metrics-us-2.amazon.com
 
+semanticlocation-pa.googleapis.com
+
 vortex-win.data.microsoft.com
 vortex.data.microsoft.com
 vortex.data.microsoft.com.akadns.net
@@ -28,3 +30,4 @@ onecollector.cloudapp.aria.akadns.net
 prod.nexusrules.live.com.akadns.net
 
 femetrics.grammarly.io
+e.joinhoney.com
